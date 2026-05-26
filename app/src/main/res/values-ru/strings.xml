@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MoviesFlow</string>
+    <string name="select_genre">Выберите жанр</string>
+    <string name="movie_list">Фильмы</string>
+    <string name="movie_info">Информация о фильме</string>
+    <string name="back">Назад</string>
+    <string name="start">Н А Ч А Т Ь</string>
+    <string name="settings">НАСТРОЙКИ</string>
+    <string name="loading">Загрузка</string>
+    <string name="failed_load">Ошибка загрузки</string>
+    <string name="retry">Повторить</string>
+    <string name="no_description">Нет описания</string>
+    <string name="setting_language">ЯЗЫК</string>
+    <string name="setting_text_scale">РАЗМЕР ТЕКСТА</string>
+    <string name="text_scale_small">МАЛЕНЬКИЙ</string>
+    <string name="text_scale_medium">СРЕДНИЙ</string>
+    <string name="text_scale_big">БОЛЬШОЙ</string>
+    <string name="search">Поиск</string>
+    <string name="favorites">Избранное</string>
+    <string name="player_unavailable">Видео плеер временно недоступен</string>
+    <string name="share_movie">Поделиться фильмом</string>
+    <string name="copy_link">Копировать ссылку</string>
+    <string name="share">Поделиться</string>
+    <string name="link_copied">Ссылка скопирована в буфер обмена</string>
+    <string name="close">Закрыть</string>
+    <string name="share_message">Посмотри этот фильм: %1$s\n%2$s</string>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MoviesFlow</string>
+    <string name="select_genre">Select genre</string>
+    <string name="movie_list">Movies</string>
+    <string name="movie_info">Movies</string>
+    <string name="back">Back</string>
+    <string name="start">S T A R T</string>
+    <string name="settings">SETTINGS</string>
+    <string name="loading">Loading</string>
+    <string name="failed_load">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="no_description">No description</string>
+    <string name="setting_language">LANGUAGE</string>
+    <string name="setting_text_scale">TEXT SCALE</string>
+    <string name="text_scale_small">SMALL</string>
+    <string name="text_scale_medium">MEDIUM</string>
+    <string name="text_scale_big">BIG</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="player_unavailable">Video player is temporarily unavailable</string>
+    <string name="ai_chat">AI Chat</string>
+    <string name="widget_description">Quick access to movies you are currently watching</string>
+    <string name="no_movies_watching">No movies with \"Watching\" tag</string>
+    <string name="share_movie">Share Movie</string>
+    <string name="copy_link">Copy Link</string>
+    <string name="share">Share</string>
+    <string name="link_copied">Link copied to clipboard</string>
+    <string name="close">Close</string>
+    <string name="share_message">Check out this movie: %1$s\n%2$s</string>
+</resources>

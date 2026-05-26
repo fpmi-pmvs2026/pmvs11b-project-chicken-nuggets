@@ -1,0 +1,57 @@
+# Gradle
+.gradle/
+build/
+output-metadata.json
+
+# Local configuration
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# IntelliJ-specific
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Keystore
+*.jks
+*.keystore
+
+# Firebase / Google Services
+google-services.json
+
+# Profiling
+*.hprof
+
+# APK/AAB
+*.apk
+*.aab
+*.ap_
+
+# OS / Log
+*.log
+.DS_Store
+
+# Java / Dex / Generated
+*.class
+*.dex
+bin/
+gen/
+
+# Eclipse (legacy)
+.project
+.classpath
+.settings/
+proguard/
+proguard-project.txt
